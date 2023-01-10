@@ -1,0 +1,1 @@
+A user-friendly budget app using Vanilla JavaScript to demonstrate the use of JavaScript Classes
